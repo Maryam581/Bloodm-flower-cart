@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rose Bouquet",
+      "category": "Bouquets",
+      "price": 29.99,
+      "image": "https://www.uflowershop.com/1294-large_default/valentine-s-day-classic-red-rose-bouquet.webp"
+    },
+    {
+      "id": 2,
+      "name": "Tulip Basket",
+      "category": "Baskets",
+      "price": 24.99,
+      "image": "https://flowersnflour.com/cdn/shop/products/piptulip_900x.jpg?v=1641464246"
+    },
+    {
+      "id": 3,
+      "name": "Orchid Arrangement",
+      "category": "Arrangements",
+      "price": 34.99,
+      "image": "https://cdn.igp.com/f_auto,q_auto,t_prodl/products/p-opulent-orchids-bouquet-109604-m.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sunflower Bunch",
+      "category": "Seasonal",
+      "price": 19.99,
+      "image": "https://freshknots.in/wp-content/uploads/2022/12/3-540x540.jpg"
+    }
+  ],
+  "cart": []
+}
+
+
